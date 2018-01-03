@@ -5,4 +5,4 @@ bot.on('ready', function () {
   console.log("Je suis connecté !")
 })
 
-bot.login('k7abhPKuKUjq2tRVTQMGfq8yxAfl9v_A')
+bot.login('process.env.TOKEN')
